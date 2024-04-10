@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "291049626566",
+    "project_id": "trylaw-dc058",
+    "storage_bucket": "trylaw-dc058.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291049626566:android:a93e9476634fe71538b0c7",
+        "android_client_info": {
+          "package_name": "com.example.trylaw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXUjEOlk2alQm0LK5xNzUINbaYFJ_iKA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
